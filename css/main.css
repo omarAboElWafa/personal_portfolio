@@ -293,5 +293,8 @@ main {
     main .lg-heading {
       margin-top: 1rem;
       font-size: 5rem; }
+  .menu-branding .portrait {
+    width: 150px;
+    height: 150px; }
   .projects {
     grid-template-columns: 1fr; } }
