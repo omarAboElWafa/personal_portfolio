@@ -1,14 +1,11 @@
 {
-  "name": "my_modern_portfolio",
+  "name": "personal_portfolio",
   "version": "1.0.0",
-  "description": "Responsive Personal Portfolio",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Omar Abo El wafa",
-  "license": "MIT",
-  "dependencies": {
-    "node-sass": "^4.13.1"
-  }
+  "author": "omarAboElWafa",
+  "license": "ISC"
 }
